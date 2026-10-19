@@ -1,0 +1,276 @@
+export const gameplayMedia = [
+    {
+    src:"PortfolioStuff/videos/TonkaTD/tonkaLiveTweakingReal.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepGameplay2.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/TGAOther/SchoolGameplay1.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/BarchOrigins/BarchGameplay2.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/Blomstertid/BlomsterGameplay2.webm"
+  },
+]
+
+export const techArtMedia = [
+  {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepGameplay5.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaHedge.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/TAPractice/RandomEffectsDark.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/TrainFriendslop/SlopGameplay1.webm"
+  },
+          {
+    src:"PortfolioStuff/videos/WizardSurvivor/wizardDeaths.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TAPractice/ImpactCircles.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/Blomstertid/BlomsterHeadTurn.webm"
+  },
+        {
+    src:"PortfolioStuff/videos/GameJamsOther/ExpandGPTGameplay.webm"
+  },
+        {
+    src:"PortfolioStuff/videos/WizardSurvivor/WizardGameplay1.webm"
+  },
+]
+
+export const toolsMedia = [
+  {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaTool2.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaTool3.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TrainFriendslop/SlopTool1.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/TonkaTD/tonkaTrack1.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TGAOther/EggineVid.webm"
+  },
+]
+
+export const backgroundVids = [
+  
+    {
+    src:"PortfolioStuff/videos/Blomstertid/BlomsterGameplay1.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepGameplay5.webm"
+  },
+    {
+      src:"PortfolioStuff/videos/SixteenLines/16LinesGameplay5.webm"
+  },
+        {
+    src:"PortfolioStuff/videos/TAPractice/RandomEffectsDark.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/WizardSurvivor/wizardDeaths.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaGameplay2.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/TGAOther/SchoolGameplay1.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/CleanEscape/CleanGameplay2.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/Sunset/SunsetCaves.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/BarchOrigins/BarchGameplay1.webm"
+  },   
+  {
+    src:"PortfolioStuff/videos/TGAOther/DriftwoodGameplay.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/TGAOther/GoreCoreGameplay.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TGAOther/HarryHopperGameplay.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/LBSOther/SBLPartyDab.webm"
+  },
+]
+
+export const wizardMedia = [
+    {
+    src:"PortfolioStuff/videos/WizardSurvivor/WizardGameplay1.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/WizardSurvivor/WizardGameplay2.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/WizardSurvivor/WizardGameplay3.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/WizardSurvivor/WizardGameplay4.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/WizardSurvivor/WizardGameplay5.webm"
+  },
+]
+
+export const tonkaMedia = [
+  {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaMenu.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaGameplay1.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaTool2.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaGameplay2.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TonkaTD/TonkaGameplay3.webm"
+  },
+]
+
+export const barchMedia = [
+  {
+    src:"PortfolioStuff/videos/BarchOrigins/BarchGameplay3.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/BarchOrigins/BarchGameplay4.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/BarchOrigins/BarchMap.webm"
+  },
+        {
+    src:"PortfolioStuff/videos/BarchOrigins/BarchGameplay5.webm"
+  },
+        {
+    src:"PortfolioStuff/videos/BarchOrigins/BarchEvent4.webm"
+  },
+]
+
+export const blomsterMedia = [
+  {
+    src:"PortfolioStuff/videos/Blomstertid/BlomsterGameplay4.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/Blomstertid/BlomsterGameplay6.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/Blomstertid/BlomsterGameplay3.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/Blomstertid/BlomsterGameplay2.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/Blomstertid/BlomsterGameplay5.webm"
+  },
+]
+
+export const cleanMedia = [
+  {
+    src:"PortfolioStuff/videos/CleanEscape/CleanMainMenu.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/CleanEscape/CleanGameplay3.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/CleanEscape/CleanGameplay1.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/CleanEscape/CleanTutorial1.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/CleanEscape/CleanGameplay4.webm"
+  },
+]
+
+export const sixteenMedia = [
+    {
+      src:"PortfolioStuff/videos/SixteenLines/16LinesGameplay5.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/SixteenLines/16LinesGameplay1.webm"
+  },
+    {
+      src:"PortfolioStuff/videos/SixteenLines/16LinesGameplay3.webm"
+  },
+      {
+      src:"PortfolioStuff/videos/SixteenLines/16LinesTut1.webm"
+  },
+      {
+      src:"PortfolioStuff/videos/SixteenLines/16LinesGameplay2.webm"
+  },
+      {
+      src:"PortfolioStuff/videos/SixteenLines/16LinesGameplay4.webm"
+  },
+]
+
+export const surviveMedia = [
+  {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepGameplay3.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepTransition.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepGameplay5.webm"
+  },
+        {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepGameplay1.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepGameplay2.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/SurvivingTheDeep/SurviveDeepGameplay4.webm"
+  },
+]
+
+export const slopMedia = [
+  {
+    src:"PortfolioStuff/videos/TrainFriendslop/SlopGameplay2.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TrainFriendslop/SlopMulti2.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/TrainFriendslop/SlopTool1.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/TrainFriendslop/SlopGameplay3.webm"
+  },
+        {
+    src:"PortfolioStuff/videos/TrainFriendslop/SlopTool2.webm"
+  },
+]
+
+export const TAProjectMedia = [
+  {
+    src:"PortfolioStuff/videos/TAPractice/Decal7.webm"
+  },
+    {
+    src:"PortfolioStuff/videos/TAPractice/MushroomImprovedShield.webm"
+  },
+      {
+    src:"PortfolioStuff/videos/TAPractice/RandomEffectsLight.webm"
+  },
+  {
+    src:"PortfolioStuff/videos/TAPractice/TargetingFirst.webm"
+  },
+]
